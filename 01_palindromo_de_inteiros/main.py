@@ -12,7 +12,6 @@ def pegar_valor():
 
 valor_em_lista = pegar_valor()
 
-
 if valor_em_lista == valor_em_lista[::-1]:
     print(f"É um palíndromo.")
 else:

@@ -1,0 +1,4 @@
+O código recebe qualquer número inteiro e valída se é um palíndromo, feito sem usar manipulação de string
+para achar o palíndromo.
+Aqui busquei revisar sobre manipulação de tipos primitivos, além de formas de escrever um FOR e a
+manipulação de listas.

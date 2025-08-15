@@ -1,0 +1,2 @@
+Aqui eu busquei conhecer mais sobre Decorators, apliquei criando um wrapper que pega o tempo de execução de
+uma função e guarda em um arquivo .log, usando a biblioteca logging.
